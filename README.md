@@ -1,5 +1,5 @@
 # SIH-2023
-TechnoCrats
+##Features
 --Developed a web application enabling users to upload videos and translate audio tracks into multiple regional 
 languages.
 --Utilized speech recognition and translation APIs to achieve 95% accuracy in transcription and translation.
